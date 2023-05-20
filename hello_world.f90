@@ -1,4 +1,4 @@
 ! Hello World Program in Fortran
-program hello 
+program hello_world
     print *, "Hello World!"
-end program
+end program hello_world
