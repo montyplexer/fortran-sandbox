@@ -1,4 +1,5 @@
-! Print the remainder of the input integer mod 4
+! Print the remainder of the first input integer mod the second input integer
+! Note: this program does not do error-checking
 program modulo_user_input
     ! "implicit none" prevents any implicit typing from happening
     ! which is a VERY GOOD THING in Fortran
