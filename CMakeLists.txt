@@ -8,6 +8,8 @@ set(
     modulo_user_input
     modulo_command_line
     calc_factorial
+    is_prime_brute
+    is_prime_trial_division
 )
 
 
