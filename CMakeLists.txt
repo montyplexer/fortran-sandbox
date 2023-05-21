@@ -7,6 +7,7 @@ set(
     hello_world
     modulo_user_input
     modulo_command_line
+    calc_factorial
 )
 
 
