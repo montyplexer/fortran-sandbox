@@ -10,6 +10,9 @@ set(
     calc_factorial
     is_prime_brute
     is_prime_trial_division
+    # 2023 05 24
+    prime_factor_trial_division_recursive
+    prime_factor_trial_division
 )
 
 
