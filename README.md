@@ -26,6 +26,14 @@ Tests if cla is prime using naive brute force algorithm, $`O(n)`$.
 
 Tests if cla is prime using trial division algorithm, $`O(\sqrt{n})`$.
 
+- prime_factor_trial_division_recursive
+
+Produces the prime factorization of cla, recursively. This program suffers with large integers.
+
+- prime_factor_trial_division
+
+Produces the prime factorization of cla.
+
 ## How to Compile
 Go to the root directory and run ```./compile.sh```. This script builds the executables and removes any CMake artifacts.
 

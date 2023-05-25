@@ -4,10 +4,12 @@ enable_language(Fortran)
 
 set(
     EXECUTABLES
+    # 2023 05 20
     hello_world
     modulo_user_input
     modulo_command_line
     calc_factorial
+    # 2023 05 21
     is_prime_brute
     is_prime_trial_division
     # 2023 05 24
